@@ -44,8 +44,9 @@
 
 | Category | Project | Description |
 | --- | --- | --- |
-| **AI 生态 / 团队插件** | [gox-claude-plugins](https://github.com/chinayin/gox-claude-plugins) | Claude Code 协作插件 |
+| **AI 生态** | [gox-claude-plugins](https://github.com/chinayin/gox-claude-plugins) | Claude Code 协作插件 |
 | | [gox-claude-standards](https://github.com/chinayin/gox-claude-standards) | 团队工程规范(steering + CLAUDE.md) |
+| | [claude-skills](https://github.com/chinayin/claude-skills) | AI Agent Skills(Gemini 图像生成) |
 | **Go 生态** | [goxctl](https://github.com/chinayin/goxctl) | 可扩展 CLI,串起 gox 生态 |
 | | [gox-browser](https://github.com/chinayin/gox-browser) | 反检测无头浏览器池 |
 | **Infra / Ops** | [images](https://github.com/chinayin-docker/images) | Debian 定制版常用 Docker 镜像 |
@@ -53,9 +54,13 @@
 | **SDK / Libraries** | [ip2region-sdk-php](https://github.com/chinayin/ip2region-sdk-php) | ip2region SDK for PHP |
 | | [qcloud-im-sdk-php](https://github.com/chinayin/qcloud-im-sdk-php) | 腾讯云 IM PHP SDK |
 | | [aliyun-mns-php-sdk](https://github.com/chinayin/aliyun-mns-php-sdk) | 阿里云 MNS PHP SDK |
+| | [aliyun-sls-php-sdk](https://github.com/chinayin/aliyun-sls-php-sdk) | 阿里云 SLS 日志服务 PHP SDK |
+| | [yunpian-sdk-php](https://github.com/chinayin/yunpian-sdk-php) | 云片短信 PHP SDK |
+| | [italent-openapi-sdk-php](https://github.com/chinayin/italent-openapi-sdk-php) | 北森开放平台 PHP SDK |
+| | [mobile-number-attribution-sdk-php](https://github.com/chinayin/mobile-number-attribution-sdk-php) | 手机号归属地查询 PHP SDK |
+| | [alibabacloud-sdk-php-alinlp](https://github.com/chinayin/alibabacloud-sdk-php-alinlp-20200629) | 阿里云自然语言处理(NLP)PHP SDK |
 | **Utilities** | [ping](https://github.com/chinayin/ping) | 用户网络诊断网页工具 |
 | | [random-nickname](https://github.com/chinayin/random-nickname) | PHP 随机昵称生成 |
-| | [claude-skills](https://github.com/chinayin/claude-skills) | AI Agent Skills(Gemini 图像生成) |
 | **Fonts** | [fonts-handwriting](https://github.com/chinayin/fonts-handwriting) | 手写体字体库 |
 | | [fonts-alibaba-puhuiti](https://github.com/chinayin/fonts-alibaba-puhuiti) | 阿里巴巴普惠体 |
 | | [fonts-pingfang](https://github.com/chinayin/fonts-pingfang) | 苹方字体库 |
