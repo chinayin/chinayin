@@ -43,7 +43,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chinayin&show_icons=true&hide_border=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chinayin&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&cache_seconds=21600" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinayin&layout=compact&hide_border=true&langs_count=6&hide=html,css,shell,powershell" />
 </p>
 
