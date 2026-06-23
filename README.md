@@ -37,6 +37,7 @@
 | [**gox**](https://github.com/chinayin/gox) | Production-grade Go toolkit — config / validation / logging |
 | [**ip2region-core-php**](https://github.com/chinayin/ip2region-core-php) | ip2region xdb 搜索工具包(PHP) · ⭐22 |
 | [**hfish**](https://github.com/chinayin-docker/hfish) | 安全、可靠、简单、免费的企业级蜜罐 · ⭐34 |
+| [**gox-claude-plugins**](https://github.com/chinayin/gox-claude-plugins) | Claude Code 团队协作插件集 |
 
 ---
 
@@ -44,8 +45,7 @@
 
 | Category | Project | Description |
 | --- | --- | --- |
-| **AI 生态** | [gox-claude-plugins](https://github.com/chinayin/gox-claude-plugins) | Claude Code 协作插件 |
-| | [gox-claude-standards](https://github.com/chinayin/gox-claude-standards) | 团队工程规范(steering + CLAUDE.md) |
+| **AI 生态** | [gox-claude-standards](https://github.com/chinayin/gox-claude-standards) | 团队工程规范(steering + CLAUDE.md) |
 | | [claude-skills](https://github.com/chinayin/claude-skills) | AI Agent Skills(Gemini 图像生成) |
 | **Go 生态** | [goxctl](https://github.com/chinayin/goxctl) | 可扩展 CLI,串起 gox 生态 |
 | | [gox-browser](https://github.com/chinayin/gox-browser) | 反检测无头浏览器池 |
@@ -55,7 +55,6 @@
 | | [italent-openapi-sdk-php](https://github.com/chinayin/italent-openapi-sdk-php) | 北森开放平台 PHP SDK |
 | | [qcloud-im-sdk-php](https://github.com/chinayin/qcloud-im-sdk-php) | 腾讯云 IM PHP SDK |
 | | [yunpian-sdk-php](https://github.com/chinayin/yunpian-sdk-php) | 云片短信 PHP SDK |
-| | [mobile-number-attribution-sdk-php](https://github.com/chinayin/mobile-number-attribution-sdk-php) | 手机号归属地查询 PHP SDK |
 | **Utilities** | [ping](https://github.com/chinayin/ping) | 用户网络诊断网页工具 |
 | | [random-nickname](https://github.com/chinayin/random-nickname) | PHP 随机昵称生成 |
 | **Fonts** | [fonts-handwriting](https://github.com/chinayin/fonts-handwriting) | 手写体字体库 |
