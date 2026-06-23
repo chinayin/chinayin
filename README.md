@@ -33,10 +33,20 @@
 
 | Project | Description |
 | --- | --- |
-| [**WeworkChatSDK**](https://github.com/chinayin/WeworkChatSDK) | 企业微信会话存档服务,一键接入的 Java SDK |
+| [**WeworkChatSDK**](https://github.com/chinayin/WeworkChatSDK) | 企业微信会话存档服务,一键接入的 Java SDK · ⭐39 |
 | [**gox**](https://github.com/chinayin/gox) | Production-grade Go toolkit — config / validation / logging |
-| [**ip2region-core-php**](https://github.com/chinayin/ip2region-core-php) | ip2region xdb 搜索工具包(PHP) |
-| [**proxyhive**](https://github.com/chinayin/proxyhive) | 多云代理节点编排平台,分布式 Agent 统一调度 |
+| [**ip2region-core-php**](https://github.com/chinayin/ip2region-core-php) | ip2region xdb 搜索工具包(PHP) · ⭐22 |
+| [**hfish**](https://github.com/chinayin-docker/hfish) | 安全、可靠、简单、免费的企业级蜜罐 · ⭐34 |
+
+---
+
+### 🔧 More Projects & Tools
+
+- **Go 生态** · [goxctl](https://github.com/chinayin/goxctl) 可扩展 CLI · [gox-browser](https://github.com/chinayin/gox-browser) 反检测无头浏览器池 · [gox-claude-standards](https://github.com/chinayin/gox-claude-standards) 团队工程规范 · [gox-claude-plugins](https://github.com/chinayin/gox-claude-plugins) Claude Code 插件
+- **Infra / Ops** · [images](https://github.com/chinayin-docker/images) Debian 定制 Docker 镜像 · [v2ray_install](https://github.com/chinayin/v2ray_install) V2Ray/Trojan 一键脚本
+- **SDK / Libraries** · [ip2region-sdk-php](https://github.com/chinayin/ip2region-sdk-php) · [qcloud-im-sdk-php](https://github.com/chinayin/qcloud-im-sdk-php) 腾讯云 IM · [aliyun-mns-php-sdk](https://github.com/chinayin/aliyun-mns-php-sdk)
+- **Utilities** · [ping](https://github.com/chinayin/ping) 网络诊断网页 · [random-nickname](https://github.com/chinayin/random-nickname) 随机昵称生成 · [claude-skills](https://github.com/chinayin/claude-skills) AI Agent skills
+- **Fonts** · [手写体](https://github.com/chinayin/fonts-handwriting) · [阿里普惠体](https://github.com/chinayin/fonts-alibaba-puhuiti) · [苹方](https://github.com/chinayin/fonts-pingfang)
 
 ---
 
