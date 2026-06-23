@@ -44,5 +44,9 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=chinayin&show_icons=true&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinayin&layout=compact&hide_border=true&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinayin&layout=compact&hide_border=true&langs_count=6&hide=html,css,shell,powershell" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=chinayin&hide_border=true" height="165" />
 </p>
