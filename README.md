@@ -44,10 +44,10 @@
 
 | Category | Project | Description |
 | --- | --- | --- |
+| **AI 生态 / 团队插件** | [gox-claude-plugins](https://github.com/chinayin/gox-claude-plugins) | Claude Code 协作插件 |
+| | [gox-claude-standards](https://github.com/chinayin/gox-claude-standards) | 团队工程规范(steering + CLAUDE.md) |
 | **Go 生态** | [goxctl](https://github.com/chinayin/goxctl) | 可扩展 CLI,串起 gox 生态 |
 | | [gox-browser](https://github.com/chinayin/gox-browser) | 反检测无头浏览器池 |
-| | [gox-claude-standards](https://github.com/chinayin/gox-claude-standards) | 团队工程规范(steering + CLAUDE.md) |
-| | [gox-claude-plugins](https://github.com/chinayin/gox-claude-plugins) | Claude Code 协作插件 |
 | **Infra / Ops** | [images](https://github.com/chinayin-docker/images) | Debian 定制版常用 Docker 镜像 |
 | | [v2ray_install](https://github.com/chinayin/v2ray_install) | V2Ray / Trojan 一键安装脚本 |
 | **SDK / Libraries** | [ip2region-sdk-php](https://github.com/chinayin/ip2region-sdk-php) | ip2region SDK for PHP |
